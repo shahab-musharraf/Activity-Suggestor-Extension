@@ -1,0 +1,14 @@
+{
+    "name": "Activity Suggestor",
+    "version": "1.0.0",
+    "description": "Why to feel bore? Do something which makes you feel happy",
+    "manifest_version": 3,
+    "author": "Shahab Musharraf",
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "icons": {
+        "128": "images/128-png-transparent-team-idea-puzzle-illustration.png"
+
+    }
+}
